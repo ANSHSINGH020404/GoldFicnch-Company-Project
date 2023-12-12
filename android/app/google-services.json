@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567843681660",
+    "project_id": "goldfinch-381c3",
+    "storage_bucket": "goldfinch-381c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567843681660:android:5fb3d72a4df74e8a9b20f9",
+        "android_client_info": {
+          "package_name": "com.example.goldfinch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoO4pRbrv7lcek0sQh1q0-AuGWCm0gdbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
